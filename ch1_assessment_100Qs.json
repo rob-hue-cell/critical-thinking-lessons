@@ -1,0 +1,667 @@
+{
+  "unit_id": "ch1",
+  "title": "Chapter 1 Assessment — 100 Questions",
+  "sections": [
+    {
+      "skill": "Claims",
+      "count": 25,
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Which is a claim?",
+          "options": [
+            "Shut the door!",
+            "The sky is blue.",
+            "Wow!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Pick the non-claim.",
+          "options": [
+            "Paris is in France.",
+            "Please hand me that.",
+            "Water is wet."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "A value claim is:",
+          "options": [
+            "About what is",
+            "About what should be done",
+            "About what is better or worse"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mcq",
+          "prompt": "Identify the policy claim.",
+          "options": [
+            "Taxes are too high.",
+            "We should reduce taxes.",
+            "Taxes exist."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "Questions are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Opinions can still be claims.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Commands are not claims.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "'It will rain tomorrow' is a claim.",
+          "answer": true
+        },
+        {
+          "type": "fill",
+          "prompt": "A claim is something that can be ____ or false.",
+          "answer": "true"
+        },
+        {
+          "type": "fill",
+          "prompt": "Policy claims often include the word ______.",
+          "answer": "should"
+        },
+        {
+          "type": "match_pairs",
+          "pairs": [
+            [
+              "Factual",
+              "Water boils at 100°C"
+            ],
+            [
+              "Value",
+              "Jazz is better than pop"
+            ],
+            [
+              "Policy",
+              "We should plant more trees"
+            ]
+          ]
+        },
+        {
+          "type": "mcq",
+          "prompt": "Which pair are both claims?",
+          "options": [
+            "'Go home.' & 'Where am I?'",
+            "'It’s raining.' & 'Roads will be wet.'",
+            "'Open the door!' & 'Ouch!'"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Which contains an implied claim?",
+          "options": [
+            "Close the window!",
+            "Isn’t that dishonest?",
+            "Wow!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Exclamations like 'Wow!' are claims.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "skill": "Arguments",
+      "count": 25,
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "An argument is:",
+          "options": [
+            "A quarrel",
+            "Premises supporting a conclusion",
+            "Any opinion"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Conclusion indicator:",
+          "options": [
+            "because",
+            "therefore",
+            "since"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Which is an argument?",
+          "options": [
+            "It's cold.",
+            "It's cold, so wear a coat.",
+            "Wear a coat!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Argument vs. explanation: 'The glass broke because it fell.'",
+          "options": [
+            "Argument",
+            "Explanation"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "A single claim is an argument.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Enthymemes always invalid.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Indicator 'because' suggests a premise.",
+          "answer": true
+        },
+        {
+          "type": "fill",
+          "prompt": "An argument's reasons are called ______.",
+          "answer": "premises"
+        },
+        {
+          "type": "match_pairs",
+          "pairs": [
+            [
+              "because",
+              "premise"
+            ],
+            [
+              "since",
+              "premise"
+            ],
+            [
+              "therefore",
+              "conclusion"
+            ]
+          ]
+        },
+        {
+          "type": "mcq",
+          "prompt": "Pick the conclusion: All dogs are animals; Fido is a dog; ______",
+          "options": [
+            "Therefore, Fido is an animal",
+            "Therefore, animals are dogs"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "tf",
+          "prompt": "Chain arguments can have intermediate conclusions.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Arguments can be written or spoken.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "skill": "Premises",
+      "count": 25,
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Identify the premise:",
+          "options": [
+            "Therefore, Socrates is mortal.",
+            "All humans are mortal.",
+            "Thus, Socrates is human."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Irrelevant premise?",
+          "options": [
+            "Smoking causes cancer; so taxes reduce smoking.",
+            "Smoking causes cancer; so exercise daily."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Independent vs. dependent: if removing P1 ruins P2's usefulness, they were:",
+          "options": [
+            "Independent",
+            "Dependent"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "Evidence can be statistical, testimony, or observation.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Premises are optional.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Dependent premises often appear with 'together'.",
+          "answer": true
+        },
+        {
+          "type": "fill",
+          "prompt": "A premise provides ______ for a conclusion.",
+          "answer": "support"
+        },
+        {
+          "type": "match_pairs",
+          "pairs": [
+            [
+              "because",
+              "premise"
+            ],
+            [
+              "given that",
+              "premise"
+            ],
+            [
+              "therefore",
+              "conclusion"
+            ]
+          ]
+        },
+        {
+          "type": "mcq",
+          "prompt": "Which is overly strong?",
+          "options": [
+            "Some dogs bark.",
+            "All dogs bark."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Quality premises are true, relevant, and jointly sufficient.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "skill": "Conclusions",
+      "count": 25,
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Which is the conclusion?",
+          "options": [
+            "Because the team trained hard",
+            "Therefore, the team will win.",
+            "Since the coach is experienced"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mcq",
+          "prompt": "Choose the conclusion:",
+          "options": [
+            "It rained last night.",
+            "The ground is wet, so it rained.",
+            "The ground is wet."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mcq",
+          "prompt": "Main conclusion likely is:",
+          "options": [
+            "We should exercise more.",
+            "Exercise improves mood.",
+            "Exercise reduces risk."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "tf",
+          "prompt": "A conclusion can appear anywhere in the passage.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "The main conclusion is always the last sentence.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "An intermediate conclusion also functions as a premise.",
+          "answer": true
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusions never act as premises.",
+          "answer": false
+        },
+        {
+          "type": "fill",
+          "prompt": "The conclusion is what the argument attempts to ______.",
+          "answer": "prove"
+        },
+        {
+          "type": "match_pairs",
+          "pairs": [
+            [
+              "therefore",
+              "conclusion"
+            ],
+            [
+              "so",
+              "conclusion"
+            ],
+            [
+              "since",
+              "premise"
+            ]
+          ]
+        },
+        {
+          "type": "mcq",
+          "prompt": "Best test for the conclusion:",
+          "options": [
+            "Shortest sentence?",
+            "Which claim the premises support?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        },
+        {
+          "type": "tf",
+          "prompt": "Conclusion signposts always correctly identify conclusions.",
+          "answer": false
+        }
+      ]
+    }
+  ]
+}
