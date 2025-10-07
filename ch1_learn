@@ -9,30 +9,30 @@
       "cards": [
           
           {
-              "id": "1.1.1",
-              "title": "Welcome to the Architecture of Thought",
-              "content": "Every great structure begins with its smallest unit. In reasoning, those units are claims—statements about the world that can be true or false. They are the bricks of logic, the atoms of understanding. Once you learn to spot them, you start seeing the invisible skeleton behind every argument, every news story, every conversation. This is where thinking begins: not with answers, but with clear statements waiting to be tested."
-          },
-          {
-              "id": "1.1.2",
-              "title": "The Role of Claims",
-              "content": "Claims give shape to thought. They tell the listener, ‘Here is what I believe about the world.’ Without them, discussion dissolves into fog. When you identify a claim, you give your mind something to grasp—a sentence that can be weighed, examined, or refined. Clarity starts here."
-          },
-          {
-              "id": "1.1.3",
-              "title": "What a Claim Is",
-              "content": "A claim is a declaration that can, at least in principle, be true or false. It doesn’t need to be correct to count; it only needs to make a testable assertion. ‘The Earth orbits the Sun’ is a claim. So is ‘The Moon is made of cheese.’ The first aligns with evidence, the second doesn’t—but both are claims because both can be checked."
-          },
-          {
-              "id": "1.1.4",
-              "title": "Truth Value",
-              "content": "Every claim carries a truth value: true, false, or uncertain. Think of truth value as gravity. It keeps reasoning from drifting into pure opinion. A claim without a truth value isn’t reasoning—it’s noise. When you ask, ‘Could this be tested?’, you’re already thinking critically."
-          },
-          {
-              "id": "1.1.5",
-              "title": "Belief Versus Claim",
-              "content": "Beliefs live inside people. Claims live in language. You can believe privately that the ocean heals the soul, but until you express it—‘The ocean heals the soul’—it remains invisible to reasoning. The moment belief becomes claim, it steps into the light, where it can be examined, refined, or even strengthened."
-          },
+                   "id": "1.1.1",
+                   "title": "Welcome to the Architecture of Thought",
+                   "content": "Every great structure begins with its smallest unit.\n\nIn reasoning, those units are **claims** — statements about the world that can be **true** or **false**. They are the 🧱 **bricks of logic**, the **atoms of understanding**.\n\nOnce you learn to **spot them**, you begin to see the **invisible skeleton** behind every argument, every news story, every conversation.\n\n💡 *This is where thinking begins:* not with answers, but with **clear statements waiting to be tested.**"
+                 },
+                 {
+                   "id": "1.1.2",
+                   "title": "The Role of Claims",
+                   "content": "Claims give **shape to thought**. They tell the listener, *“Here is what I believe about the world.”*\n\nWithout them, discussion dissolves into fog. When you **identify a claim**, you give your mind something solid to grasp — a sentence that can be **weighed, examined, or refined**.\n\n💡 **Clarity starts here.**"
+                 },
+                 {
+                   "id": "1.1.3",
+                   "title": "What a Claim Is",
+                   "content": "A **claim** is a declaration that can, at least in principle, be **true or false**. It doesn’t need to be correct to count — only **testable**.\n\n🧠 *Example:* “The Earth orbits the Sun” is a claim. So is “The Moon is made of cheese.” The first aligns with evidence; the second doesn’t — but both can be **checked**.\n\n💡 What matters is the **possibility of testing** — that’s what makes it reasoning."
+                 },
+                 {
+                   "id": "1.1.4",
+                   "title": "Truth Value",
+                   "content": "Every claim carries a **truth value** — **true**, **false**, or **uncertain**. Think of truth value as **gravity**: it keeps reasoning from drifting into opinion.\n\n⚖️ A claim without truth value isn’t reasoning — it’s noise. When you ask, *“Could this be tested?”*, you’re already **thinking critically.**"
+                 },
+                 {
+                   "id": "1.1.5",
+                   "title": "Belief Versus Claim",
+                   "content": "💭 **Beliefs live inside people.** **Claims live in language.**\n\nYou can believe privately that *the ocean heals the soul*, but until you express it — “The ocean heals the soul” — it remains invisible to reasoning.\n\nThe moment belief becomes claim, it steps into the light — where it can be **examined**, **refined**, or even **strengthened.**"
+                 },
           {
               "id": "1.1.6",
               "title": "The Brick and the Wall",
